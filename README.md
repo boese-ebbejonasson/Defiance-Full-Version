@@ -240,4 +240,4 @@ This repository serves as the official landing page for Defiance. The software i
 **Get the most recent version of Defiance today!**
 
 ---
-**Last updated:** 2026-10-22 14:56:56 UTC
+**Last updated:** 2026-10-22 19:07:49 UTC
